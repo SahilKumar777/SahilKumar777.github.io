@@ -108,7 +108,8 @@ nav a {
 
 .hero {
   text-align: left;
-  background: linear-gradient(to right, #6a11cb, #2575fc);
+  background: linear-gradient(to right, #9611cb, #25fcc8);
+  margin: 2rem;
   color: white;
 }
 section {
